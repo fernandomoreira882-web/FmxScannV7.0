@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "revision": "2026.11.02.BGL1",
+  "checked": "2026-11-02",
+  "families": {
+    "bucha": "1304 buchas BGL H/HE/HA/HS/AH/AHX extraídas das tabelas do PDF 2021 (páginas PDF 5–30 e 32–43), mais NSK AH313 preservada. Versões hidráulicas, demais famílias e conicidades não explicitadas não foram integralmente importadas.",
+    "rolamento": "Inicial: NSK 6004, 6006, 6204, 6205, 6206 e 6305; rígidos de esferas. Demais famílias e medidas ainda não incluídas.",
+    "rosca": "Inicial: oito combinações métricas de diâmetro nominal maior e passo. UNC, UNF, BSP e NPT ainda sem registros nesta base.",
+    "engrenagem": "Inicial: somente KHK SS2-20, dentes retos. Outras construções ainda não incluídas.",
+    "parafuso": "Inicial: séries dimensionais DIN 931 M5, M6, M7, M8, M10, M12, M14 e M16. Comprimentos e SKUs não importados.",
+    "coroa": "Inicial: G&G 40B10, 40B15, 40B19, 40B20, para corrente nº 40 simples. Furo pronto não especificado.",
+    "corrente": "Inicial: sete referências BS/B simples, 06B-1 a 24B-1, conforme tabela Renold. Duplas, triplas e ANSI/A não incluídas."
+  }
+}

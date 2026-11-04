@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "family": "rosca",
+  "revision": "2026.11.02.1",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: oito combinações métricas de diâmetro nominal maior e passo. UNC, UNF, BSP e NPT ainda sem registros nesta base.",
+  "records": [
+    {
+      "id": "metric-m5",
+      "reference": "M5x0.8",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 5,
+        "passo": 0.8,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m6",
+      "reference": "M6x1",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 6,
+        "passo": 1,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m7",
+      "reference": "M7x1",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 7,
+        "passo": 1,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m8",
+      "reference": "M8x1.25",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 8,
+        "passo": 1.25,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m10",
+      "reference": "M10x1.5",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 10,
+        "passo": 1.5,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m12",
+      "reference": "M12x1.75",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 12,
+        "passo": 1.75,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m14",
+      "reference": "M14x2",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 14,
+        "passo": 2,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    },
+    {
+      "id": "metric-m16",
+      "reference": "M16x2",
+      "manufacturer": "Referência métrica — tabela Günay",
+      "values": {
+        "diametro": 16,
+        "passo": 2,
+        "familia": "Métrica",
+        "forma": "Paralela",
+        "sexo": "Externa"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro nominal maior da rosca externa. Medição interna exige outra base; não interpretar como diâmetro interno medido. Sentido não confirmado."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schema": 1,
+  "family": "rolamento",
+  "revision": "2026.11.02.2",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: NSK 6004, 6006, 6204, 6205, 6206 e 6305; rígidos de esferas. Demais famílias e medidas ainda não incluídas.",
+  "records": [
+    {
+      "id": "nsk-6004",
+      "reference": "6004",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 20,
+        "D": 42,
+        "B": 12
+      },
+      "source": {
+        "url": "https://www.nsk.com/engineering/products/bearings/ball-bearings/deep-groove-ball-bearings/single-row-deep-groove-ball-bearings/6004-apn.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    },
+    {
+      "id": "nsk-6204",
+      "reference": "6204",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 20,
+        "D": 47,
+        "B": 14
+      },
+      "source": {
+        "url": "https://www.nsk.com/eu-en/engineering/products/bearings/ball-bearings/deep-groove-ball-bearings/single-row-deep-groove-ball-bearings/6204-dgbb-sr.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    },
+    {
+      "id": "nsk-6205",
+      "reference": "6205",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 25,
+        "D": 52,
+        "B": 15
+      },
+      "source": {
+        "url": "https://www.nsk.com/engineering/products/bearings/ball-bearings/deep-groove-ball-bearings/single-row-deep-groove-ball-bearings/6205-apn.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    },
+    {
+      "id": "nsk-6206",
+      "reference": "6206",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 30,
+        "D": 62,
+        "B": 16
+      },
+      "source": {
+        "url": "https://www.nsk.com/in-en/engineering/products/bearings/ball-bearings/deep-groove-ball-bearings/single-row-deep-groove-ball-bearings/6206-dgbb-sr.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    },
+    {
+      "id": "nsk-6305",
+      "reference": "6305",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 25,
+        "D": 62,
+        "B": 17
+      },
+      "source": {
+        "url": "https://www.nsk.com/engineering/6305-dgbb-sr.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    },
+    {
+      "id": "nsk-6006",
+      "reference": "6006",
+      "manufacturer": "NSK",
+      "values": {
+        "tipo": "Rígido de esferas",
+        "d": 30,
+        "D": 55,
+        "B": 13
+      },
+      "source": {
+        "url": "https://www.nsk.com/engineering/6006-apn.html",
+        "checked": "2026-11-02"
+      },
+      "notes": "Referência base dimensional. Vedação, folga e demais sufixos exigem confirmação."
+    }
+  ]
+}

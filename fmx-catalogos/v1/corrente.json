@@ -1,0 +1,128 @@
+{
+  "schema": 1,
+  "family": "corrente",
+  "revision": "2026.11.02.1",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: sete referências BS/B simples, 06B-1 a 24B-1, conforme tabela Renold. Duplas, triplas e ANSI/A não incluídas.",
+  "records": [
+    {
+      "id": "renold-06B-1",
+      "reference": "06B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 9.525,
+        "largura": 5.72,
+        "rolo": 6.35,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-08B-1",
+      "reference": "08B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 12.7,
+        "largura": 7.75,
+        "rolo": 8.51,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-10B-1",
+      "reference": "10B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 15.875,
+        "largura": 9.65,
+        "rolo": 10.16,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-12B-1",
+      "reference": "12B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 19.05,
+        "largura": 11.68,
+        "rolo": 12.07,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-16B-1",
+      "reference": "16B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 25.4,
+        "largura": 17.02,
+        "rolo": 15.88,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-20B-1",
+      "reference": "20B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 31.75,
+        "largura": 19.56,
+        "rolo": 19.05,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    },
+    {
+      "id": "renold-24B-1",
+      "reference": "24B-1",
+      "manufacturer": "Renold",
+      "values": {
+        "passo": 38.1,
+        "largura": 25.4,
+        "rolo": 25.4,
+        "fileiras": "Simples",
+        "serie": "BS / B"
+      },
+      "source": {
+        "url": "https://www.renold.com/media/165474/corrosion-res-ren48-eng-03-07.pdf",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela Corrosion Resistance: largura interna mínima e diâmetro máximo do rolo. Referência geométrica de série; capacidade, execução e material exigem conferência."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "family": "coroa",
+  "revision": "2026.11.02.1",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: G&G 40B10, 40B15, 40B19, 40B20, para corrente nº 40 simples. Furo pronto não especificado.",
+  "records": [
+    {
+      "id": "gg-40B10",
+      "reference": "40B10",
+      "manufacturer": "G&G Manufacturing",
+      "values": {
+        "corrente": "40",
+        "passo": 12.7,
+        "dentes": 10,
+        "D": 46.7106,
+        "cubo": 31.75,
+        "fileiras": "Simples"
+      },
+      "source": {
+        "url": "https://www.ggmfg.com/products/sprockets/standard-non-stock-roller-chain-sprockets.php",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela tipo B, corrente nº 40, passo 1/2 pol. Conversão das dimensões em polegadas. Furo final, chaveta e largura do dente não importados; não usar máximo usinável como furo pronto."
+    },
+    {
+      "id": "gg-40B15",
+      "reference": "40B15",
+      "manufacturer": "G&G Manufacturing",
+      "values": {
+        "corrente": "40",
+        "passo": 12.7,
+        "dentes": 15,
+        "D": 67.3862,
+        "cubo": 47.625,
+        "fileiras": "Simples"
+      },
+      "source": {
+        "url": "https://www.ggmfg.com/products/sprockets/standard-non-stock-roller-chain-sprockets.php",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela tipo B, corrente nº 40, passo 1/2 pol. Conversão das dimensões em polegadas. Furo final, chaveta e largura do dente não importados; não usar máximo usinável como furo pronto."
+    },
+    {
+      "id": "gg-40B19",
+      "reference": "40B19",
+      "manufacturer": "G&G Manufacturing",
+      "values": {
+        "corrente": "40",
+        "passo": 12.7,
+        "dentes": 19,
+        "D": 83.7438,
+        "cubo": 63.5,
+        "fileiras": "Simples"
+      },
+      "source": {
+        "url": "https://www.ggmfg.com/products/sprockets/standard-non-stock-roller-chain-sprockets.php",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela tipo B, corrente nº 40, passo 1/2 pol. Conversão das dimensões em polegadas. Furo final, chaveta e largura do dente não importados; não usar máximo usinável como furo pronto."
+    },
+    {
+      "id": "gg-40B20",
+      "reference": "40B20",
+      "manufacturer": "G&G Manufacturing",
+      "values": {
+        "corrente": "40",
+        "passo": 12.7,
+        "dentes": 20,
+        "D": 87.8078,
+        "cubo": 66.675,
+        "fileiras": "Simples"
+      },
+      "source": {
+        "url": "https://www.ggmfg.com/products/sprockets/standard-non-stock-roller-chain-sprockets.php",
+        "checked": "2026-11-02"
+      },
+      "notes": "Tabela tipo B, corrente nº 40, passo 1/2 pol. Conversão das dimensões em polegadas. Furo final, chaveta e largura do dente não importados; não usar máximo usinável como furo pronto."
+    }
+  ]
+}

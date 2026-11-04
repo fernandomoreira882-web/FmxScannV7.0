@@ -1,0 +1,129 @@
+{
+  "schema": 1,
+  "family": "parafuso",
+  "revision": "2026.11.02.1",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: séries dimensionais DIN 931 M5, M6, M7, M8, M10, M12, M14 e M16. Comprimentos e SKUs não importados.",
+  "records": [
+    {
+      "id": "gunay-din931-m5",
+      "reference": "DIN 931 M5x0.8 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 5,
+        "passo": 0.8,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m6",
+      "reference": "DIN 931 M6x1 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 6,
+        "passo": 1,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m7",
+      "reference": "DIN 931 M7x1 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 7,
+        "passo": 1,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m8",
+      "reference": "DIN 931 M8x1.25 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 8,
+        "passo": 1.25,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m10",
+      "reference": "DIN 931 M10x1.5 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 10,
+        "passo": 1.5,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m12",
+      "reference": "DIN 931 M12x1.75 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 12,
+        "passo": 1.75,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m14",
+      "reference": "DIN 931 M14x2 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 14,
+        "passo": 2,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    },
+    {
+      "id": "gunay-din931-m16",
+      "reference": "DIN 931 M16x2 — série dimensional",
+      "manufacturer": "Günay",
+      "values": {
+        "diametro": 16,
+        "passo": 2,
+        "cabeca": "Sextavada"
+      },
+      "source": {
+        "url": "https://www.gunaycivata.com.tr/tr/urun-din-931/31",
+        "checked": "2026-11-02"
+      },
+      "notes": "Série da tabela, sem comprimento/SKU definido. Classe de resistência, material e acabamento não importados. Comprimento e sentido não confirmados por este registro."
+    }
+  ]
+}

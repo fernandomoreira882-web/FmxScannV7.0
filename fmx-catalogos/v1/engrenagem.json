@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "family": "engrenagem",
+  "revision": "2026.11.02.1",
+  "checked": "2026-11-02",
+  "coverage": "Inicial: somente KHK SS2-20, dentes retos. Outras construções ainda não incluídas.",
+  "records": [
+    {
+      "id": "khk-ss2-20",
+      "reference": "SS2-20",
+      "manufacturer": "KHK",
+      "values": {
+        "tipo": "Dentes retos",
+        "dentes": 20,
+        "D": 44,
+        "largura": 20,
+        "modulo": 2,
+        "angulo": 20,
+        "furo": 12
+      },
+      "source": {
+        "url": "https://catalog.khkgears.us/item/spur-gears/spur-gears-ss/ss2-20",
+        "checked": "2026-11-02"
+      },
+      "notes": "Diâmetro primitivo 40 mm; cubo 32 mm. Conferir montagem, material e tratamento no catálogo. Não constitui dimensionamento de carga."
+    }
+  ]
+}
